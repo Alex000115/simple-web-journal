@@ -1,2 +1,21 @@
-# simple-web-journal
-A beginner-friendly browser-only project to write daily notes, track progress, and practice basic GitHub commits.
+# Simple Web Journal
+
+This is a very easy project for beginners.
+
+You can use this repository to:
+- Write daily notes
+- Track learning progress
+- Practice editing files
+- Build a habit of GitHub commits
+
+How to use:
+1. Open any file
+2. Add a small update
+3. Save the file
+4. Commit your change
+
+Goal:
+Learn something small every day.
+
+Notes:
+Write your journal entries below.
